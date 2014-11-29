@@ -5,12 +5,12 @@ XOOPS Docs Process
 
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-XOOPS was always known for a very good code, good architecture, and its modular approach, but we never we able to create good documentation.
+XOOPS fue siempre conocido por un código muy bueno, buena arquitectura, y su enfoque modular, pero nunca seremos capaces de crear una buena documentación.
 
-With the recent technological advances, especially around GitHub, we believe we have now found tools that will help us to:
+Con los recientes avances tecnológicos, especialmente alrededor de GitHub, creemos que tenemos las herramientas que ahora se encuentran que nos ayudarán a:
 
-a) streamline the process and make it more efficient
-b) engage the community by leveraging the same "forking and submitting pull requests" process as they they user at the normal coding activities.
+a) agilizar el proceso y hacerlo más eficiente
+b) participar a la comunidad, aprovechando el mismo proceso "que se bifurcan y presentar una solicitud de extracción", ya que ellos usuario en las actividades de codificación normales.
 
 
 * [Chapter 1: Introduction](book/ch1.md)
