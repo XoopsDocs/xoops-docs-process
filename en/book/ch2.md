@@ -26,7 +26,7 @@ Of course, you can also use your favorite way of interacting with Git, incl. the
 **b) Creating a new book/tutorial from scratch**
 
 * You can also start writing a book/tutorial from scratch by creating a new repository in your account. 
-* In this case, we recommend to use the "**[XOOPS Documentation Starter Kit](https://github.com/XoopsDocs/gitbook-starterkit)**", that has already a predefined projects structure and the required files, making it easier for you to just start writing. 
+* In this case, we recommend to use the "**[XOOPS Documentation Starter Kit](https://github.com/XoopsDocs/gitbook-starterkit)**", that has already a predefined projects structure and the required files, making it easier for you to just start writing. There is more information about it in the last chapter in this publication.
 
 
 
