@@ -1,4 +1,4 @@
-# GitBook Overview
+# XOOPS & GitBook
 
 #### How to write XOOPS Documentation using GitHub and GitBook
 
