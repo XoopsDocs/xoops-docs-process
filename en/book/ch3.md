@@ -46,15 +46,17 @@ which will open this screen: https://www.gitbook.com/new below:
 
 ![image001.png](../assets/gitbook7_settings.jpg)
 
-1) After the book is created, we need to set 
+1) After the book has been created, we need to connect it to the GitHub repository via the Settings. Please note that from this screen we can also click on the top buttons to Edit or View the book
 
 ![image001.png](../assets/gitbook7_settingsgithub.png)
 
+After we click on the Settings, we click on the "GitHub Integration" button
+
 ![image001.png](../assets/gitbook7_settingsgithub2.png)
 
-
-
-
-
+1. To connect the book to the GitHub Repository, we enter the name of the Account and the repository on GitHub (e.g. XoopsDocs/xyz-tutorial)
+2. If we want GitBook to update the book every time the repository is changed, we need to add the "webhook" by clicking on the link here
+3. Let's save the Settings, just in case
+4. From here, we can now click on the Edit button and start writing our new book! 
 
 
