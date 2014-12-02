@@ -5,7 +5,7 @@ XOOPS Docs Process
 
 ![logoXoops.jpg](../assets/logoXoops.jpg)
 
-XOOPS a toujours été connu pour un très bon code, une bonne architecture, et son approche modulaire, mais nous ne avons jamais nous capables de créer une bonne documentation.
+[**XOOPS**](http://xoops.org)  a toujours été connu pour un très bon code, une bonne architecture, et son approche modulaire, mais nous ne avons jamais nous capables de créer une bonne documentation.
 
 Avec les récents progrès technologiques, en particulier autour de GitHub, nous croyons que nous avons maintenant trouvé que des outils nous aideront à:
 

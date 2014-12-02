@@ -1,0 +1,1 @@
+# XOOPS Docs Starter-Kit
