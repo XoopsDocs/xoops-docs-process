@@ -13,10 +13,11 @@ b) engage the community by leveraging the same "forking and submitting pull requ
 
 ##Why Gitbook?
 
-GitBook is a tool for building beautiful books using Markdown syntax. It can generate your book in multiple formats: **PDF**, **ePub**, **mobi** or as a **Website**. By leveraging GitHub, it provides the best collaboration tool for developers and documentation writers to work together, and with an excellent versioning system. 
+GitBook is a tool for building beautiful books using Markdown syntax. It can generate your book in multiple formats: **PDF**, **ePub**, **mobi** or as a **Website**. By leveraging GitHub, it provides the best collaboration tool for developers and documentation writers to work together, and with an excellent versioning system as a foundation. 
 
-Gitbook has a great way of [documenting](http://help.gitbook.io) the specifics of how to work with it, but I wanted to create an opinionated guide for workflow that people can use use without headeaches, and work together as a team.  This is my workflow and I'm outlining what works for me, and this will not necessarily fit everyone that is using a tool as flexible as gitbook.
+The biggest advantage for Open Source projects such as XOOPS, is that everybody can contribute to the documentation by simply forking the document and submitting changes back to the team.
 
+Another advantage of GitBook is the option to have multi-lingual versions in one single repository, with users being able to select their language. Since XOOPS is a very international project, this is very important to us. 
 
 ## More Information
 If you would like to learn more about GitBook, you can use their [help site](http://help.gitbook.io) or their super useful [README](https://github.com/GitbookIO/gitbook/blob/master/README.md).  Everything regarding how to work with this GitBook is there.
