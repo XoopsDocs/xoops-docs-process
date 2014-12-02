@@ -2,10 +2,12 @@
 
 The process of creation XOOPS Documentation using GitBook and GitHub requires:
 
-- Account on GitHub (http://www.github.com)
+- Account on **GitHub** (http://www.github.com)
     - basic knowledge of using GitHub Website
     - basic understanding of using Git as Versioning system
-- Account on GitBook (http://www.gitbook.com)
+    - basic knowledge of **Markdown** 
+- Account on **GitBook** (http://www.gitbook.com)
+    -   to learn more about GitBook, please read this
 
 #### 1) Creating a GitHub Repository 
 
