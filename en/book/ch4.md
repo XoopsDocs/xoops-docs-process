@@ -21,4 +21,4 @@
 
 Above you can see the typical directory structure for a Gitbook document. Within the /book folder, you can have additional folders if needed (e.g. for individual chapters)
 
-![image001.png](../assets/directorystructure_international.jpg) 
+![image001.png](../assets/directorystructure_international.png) 
