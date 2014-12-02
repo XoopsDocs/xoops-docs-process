@@ -11,6 +11,17 @@ With the recent technological advances, especially around GitHub, we believe we 
 a) streamline the process and make it more efficient
 b) engage the community by leveraging the same "forking and submitting pull requests" process as they they user at the normal coding activities.
 
+##Why Gitbook?
+
+GitBook is a tool for building beautiful books using Markdown. It can generate your book in multiple formats: **PDF**, **ePub**, **mobi** or as a **Website**.
+
+Gitbook has a great way of [documenting](http://help.gitbook.io) the specifics of how to work with it, but I wanted to create an opinionated guide for workflow that people can use use without headeaches, and work together as a team.  This is my workflow and I'm outlining what works for me, and this will not necessarily fit everyone that is using a tool as flexible as gitbook.
+
+
+## More Information
+If you would like to learn more about GitBook, you can use their [help site](http://help.gitbook.io) or their super useful [README](https://github.com/GitbookIO/gitbook/blob/master/README.md).  Everything regarding how to work with this GitBook is there.
+
+## Table of Content
 
 * [Chapter 1: Introduction](ch1.md)
 * [Chapter 2: Process requirements](ch2.md)
