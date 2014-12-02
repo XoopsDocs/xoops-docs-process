@@ -14,7 +14,7 @@ b) engage the community by leveraging the same "forking and submitting pull requ
 
 * [Chapter 1: Introduction](ch1.md)
 * [Chapter 2: Process requirements](ch2.md)
-* [Chapter 3: Process tools](ch3.md)
+* [Chapter 3: Process workflow](ch3.md)
 * [Chapter 4: Process Standards](ch4.md)
 * [Chapter 5: XOOPS Docs Starter-Kit](ch5.md)
 
