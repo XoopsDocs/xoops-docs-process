@@ -1,13 +1,8 @@
-# Summary
+# Table of Content
 
-* [Introduction](README.md)
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Other](book/8other.md)
-* [Module Credits](book/9credits.md)
+* [Chapter 1: Introduction](book/ch1.md)
+* [Chapter 2: Process requirements](book/ch2.md)
+* [Chapter 3: Process tools](book/ch3.md)
+* [Chapter 4: Process Standards](book/ch4.md)
+* [Chapter 5: XOOPS Docs Starter-Kit](book/ch5.md)
 

@@ -1,16 +1,17 @@
 XOOPS Docs Process
 ============
 
-#### How to write XOOPS Documentation using GitHub and GitBook
+#### Comment écrire XOOPS Documentation utilisant GitHub et GitBook
 
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](../assets/logoXoops.jpg)
 
-XOOPS was always known for a very good code, good architecture, and its modular approach, but we never we able to create good documentation.
+XOOPS a toujours été connu pour un très bon code, une bonne architecture, et son approche modulaire, mais nous ne avons jamais nous capables de créer une bonne documentation.
 
-With the recent technological advances, especially around GitHub, we believe we have now found tools that will help us to:
+Avec les récents progrès technologiques, en particulier autour de GitHub, nous croyons que nous avons maintenant trouvé que des outils nous aideront à:
 
-a) streamline the process and make it more efficient
-b) engage the community by leveraging the same "forking and submitting pull requests" process as they they user at the normal coding activities.
+a) rationaliser le processus et le rendre plus efficace
+
+b) d'engager la communauté en se appuyant sur le même processus "bifurquer et soumettre des demandes de traction», comme ils se l'utilisateur aux activités normales de codage.
 
 
 * [Chapter 1: Introduction](book/ch1.md)
