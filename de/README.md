@@ -1,7 +1,7 @@
 XOOPS Docs Process
 ============
 
-#### How to write XOOPS Documentation using GitHub and GitBook
+#### Wie man XOOPS Dokumentation schreibt mit GitHub und GitBook
 
 ![logoXoops.jpg](../assets/logoXoops.jpg)
 
