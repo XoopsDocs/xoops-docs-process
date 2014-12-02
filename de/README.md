@@ -3,7 +3,7 @@ XOOPS Docs Process
 
 #### How to write XOOPS Documentation using GitHub and GitBook
 
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](../assets/logoXoops.jpg)
 
 XOOPS war immer für einen sehr guten Code, gute Architektur und seinen modularen Ansatz bekannt, aber wir waren nie in der Lage, eine gute Dokumentation zu erstellen.
 
