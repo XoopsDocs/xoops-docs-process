@@ -9,7 +9,7 @@ The process of creation XOOPS Documentation using **GitBook** and **GitHub** req
 - Account on **GitBook** (http://www.gitbook.com)
     -   to learn more about GitBook, please read [this publication](http://help.gitbook.io/)
 
-#### 1) Creating a GitHub Repository 
+#### Creating a GitHub Repository for the book
 
 
 There are two ways to contribute to XOOPS Documentation:
