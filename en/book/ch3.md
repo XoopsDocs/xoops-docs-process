@@ -32,16 +32,21 @@
   * Rename the repo if needed  ([screenshot](http://mrm-screen.s3.amazonaws.com/Options_20140707_100417_20140707_100421.png))
 * Clone the repo to your machine, if you want to work on the document locally. For Windows users there is the [GitHub for Windows](https://windows.github.com/), which can be very helpful. You just need to click the "Clone" button on your GitHub repository screen, and GitHub will take care of the rest.
 Of course, you can also use your favorite way of interacting with Git, incl. the command line. 
-* Now go to GitBook and click on the "+" sign there on top which will open this screen: https://www.gitbook.com/new
-
+* Now go to GitBook and click on the "+" sign there on top: 
 
 ![image001.png](../assets/gitbook6_newbook.png)
 
+which will open this screen: https://www.gitbook.com/new below:
+
 ![image001.png](../assets/gitbook6_newbook2.png)
+
+1. Select the kind of book you want to write. In our case, the Basic book is what we're using
+2. Set the name of the book. For XOOPS Tutorials, we're using "XOOPS XYZ Module", where XYZ is the name of the module, e.g. "XOOPS Protector Module"
+3. Click then on the "Save" Button
 
 ![image001.png](../assets/gitbook7_settings.jpg)
 
-![image001.png](../assets/gitbook7_settings2.jpg)
+1) After the book is created, we need to set 
 
 ![image001.png](../assets/gitbook7_settingsgithub.png)
 
