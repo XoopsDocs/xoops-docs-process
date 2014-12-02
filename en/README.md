@@ -1,4 +1,4 @@
-XOOPS Docs Process
+XOOPS Documentation Process
 ============
 
 #### How to write XOOPS Documentation using GitHub and GitBook
