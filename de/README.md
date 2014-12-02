@@ -7,10 +7,11 @@ XOOPS Docs Process
 
 XOOPS war immer für einen sehr guten Code, gute Architektur und seinen modularen Ansatz bekannt, aber wir waren nie in der Lage, eine gute Dokumentation zu erstellen.
 
-Mit den jüngsten technologischen Fortschritte, vor allem rund um GitHub, glauben wir, haben wir jetzt Werkzeuge gefunden, die uns helfen werden:
+Mit den jüngsten technologischen Fortschritten, vor allem rund um GitHub, glauben wir, dass wir jetzt Werkzeuge gefunden haben, die uns helfen werden:
 
-a) den Prozess zu rationalisieren und sie effizienter zu gestalten
-b) die Gemeinschaft durch die Nutzung der gleichen "Forking und Einreichen von Pull-Anforderungen" Verfahren, wie sie sie bereits bei der normalen Kodierung Aktivitäten benutzen.
+a) den Prozess zu rationalisieren und es effizienter zu gestalten
+
+b) die Gemeinschaft zu motivieren durch die Nutzung der gleichen "Forking und Einreichen von Pull-Anforderungen" Verfahren, die sie bereits bei der normalen Kodierung Aktivitäten benutzen.
 
 
 * [Chapter 1: Introduction](book/ch1.md)
