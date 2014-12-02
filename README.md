@@ -13,11 +13,13 @@ a) streamline the process and make it more efficient
 b) engage the community by leveraging the same "forking and submitting pull requests" process as they they user at the normal coding activities.
 
 
-* [Chapter 1: Introduction](en/book/ch1.md)
-* [Chapter 2: Process requirements](en/book/ch2.md)
-* [Chapter 3: Process tools](en/book/ch3.md)
-* [Chapter 4: Process Standards](en/book/ch4.md)
-* [Chapter 5: XOOPS Docs Starter-Kit](en/book/ch5.md)
+* [[XOOPS & GitBook](en/book/ch1.md)
+* [Process requirements](en/book/ch2.md)
+* [Process Workflow](en/book/ch3.md)
+* [Documentation Standards](en/book/ch4.md)
+* [XOOPS Docs Starter-Kit](en/book/ch5.md)
+* [Credits](en/book/9credits.md)
+
 
 ##License:
 
