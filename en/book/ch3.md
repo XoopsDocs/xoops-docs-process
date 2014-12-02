@@ -6,8 +6,8 @@
 ![image001.png](../assets/gitbook4.png)
 
 
-1. You need to set up a GitHub repository for your book 
-2. Create the book itself on GitBook
+1. Create a GitHub repository for your book (fork existing or create a new one)
+2. Create the book on GitBook
 3. In the book's Settings, connect the book to the GitHub repository
 
 
@@ -17,11 +17,11 @@
 ![image001.png](../assets/gitbook5.png)
 
 
-1. Start write or edit your book using the GitBook Editor 
+1. Write a new book or edit an existing one using the GitBook Editor 
 2. Every time you save your work in the Editor, it will be saved in the GitHub repository.
-3. If you have set a GitBook webhook to the repository, every time you commit your work to GitHub repository, it triggers GitBook to re-publish the book<br><br>
+3. If you have set a GitBook webhook to the repository, every time you commit your work to GitHub repository, it will trigger GitBook to re-publish the book<br><br>
 >![image001.png](../assets/info/info.png) **NOTE:** Webhooks allow external services to be notified when certain events happen on GitHub. When the specified events happen, GitHub will send a POST request to each of the URLs you provide. Learn more in the [Webhooks Guide](https://developer.github.com/webhooks/).
-4. The user will then have automatically access to the latest and greatest version
+4. The user will then have automatically access to the latest and greatest version of your book
 
 ### 3) Detailed steps
 
