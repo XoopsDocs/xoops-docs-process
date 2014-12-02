@@ -4,7 +4,7 @@ In order to simplify the process of creating XOOPS Documentation, we have provid
 - starter-kit for a XOOPS Module Tutorial
 - starter-kit for a generic book (based on work of  [MrMaximize](https://github.com/MrMaksimize/gitbook-starter-kit))
  
-You can download or fork the **XOOPS Docs Starting-Kit** from [**GitHub XOOPS Docs**](https://github.com/XoopsDocs/gitbook-starterkit)
+You can download or fork the **XOOPS Docs Starter-Kit** from [**GitHub XOOPS Docs**](https://github.com/XoopsDocs/gitbook-starterkit)
 
 
 1) if you have forked the XOOPS Docs Starter Kit, please:
