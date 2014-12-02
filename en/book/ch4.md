@@ -15,7 +15,9 @@
 
 >![image001.png](../assets/info/stop.png) **IMPORTANT:** These images below do NOT have tool tip information.
 
-4) Directory structure
+4) When creating a XOOPS Tutorial in GitBook, please call it: **"XOOPS XYZ Module"**, replacing the "XYZ" with the name of the module, e.g. "XOOPS Protector Module"
+
+5) Directory structure
 
 ![image001.png](../assets/directorystructure.jpg)  
 
@@ -60,7 +62,7 @@ with the LANGS.md file containing list of languages which you can activate or de
 * [中文](zh)
 -->
 ```
-Please note that the active languages will then show up as selection for the user when they come to read the document:
+Please note that the active languages will then show up as selection for the user when they come to read the document.
 
 
 
