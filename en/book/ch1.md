@@ -1,4 +1,4 @@
-# Introduction
+# GitBook Overview
 
 #### How to write XOOPS Documentation using GitHub and GitBook
 
@@ -21,14 +21,6 @@ Another advantage of GitBook is the option to have multi-lingual versions in one
 
 ## More Information
 If you would like to learn more about GitBook, you can use their [help site](http://help.gitbook.io) or their super useful [README](https://github.com/GitbookIO/gitbook/blob/master/README.md).  Everything regarding how to work with this GitBook is there.
-
-## Table of Content
-
-* [Chapter 1: Introduction](ch1.md)
-* [Chapter 2: Process requirements](ch2.md)
-* [Chapter 3: Process workflow](ch3.md)
-* [Chapter 4: Process Standards](ch4.md)
-* [Chapter 5: XOOPS Docs Starter-Kit](ch5.md)
 
 ##License:
 
