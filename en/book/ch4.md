@@ -21,4 +21,48 @@
 
 Above you can see the typical directory structure for a Gitbook document. Within the /book folder, you can have additional folders if needed (e.g. for individual chapters)
 
+For Multi-lingual documents, the top structure will look like this:
+
 ![image001.png](../assets/directorystructure_international.png) 
+
+with the LANGS.md file containing list of languages which you can activate or deactivate:
+```markdown
+* [English](en)
+* [Deutsch](de)
+* [Español](es)
+* [Français](fr)
+
+<!--
+* [Português](pt-br)
+* [Italiano](it)
+* [العربية](ar)
+* [azərbaycan dili](az)
+* [беларуская мова](be)
+* [català](ca)
+* [čeština, český jazyk](cs)
+* [Esperanto](eo)
+* [suomi](fi)
+* [हिन्दी, हिंदी](hi)
+* [Magyar](hu)
+* [Bahasa Indonesia](id)
+* [日本語 (にほんご)](ja)
+* [한국어, 조선어](ko)
+* [македонски јазик](mk)
+* [Nederlands](nl)
+* [język polski](pl)
+* [limba română](ro)
+* [русский язык](ru)
+* [српски језик](sr)
+* [ไทย](th)
+* [Türkçe](tr)
+* [Tiếng Việt](vi)
+* [漢語](zh-tw)
+* [中文](zh)
+-->
+```
+Please note that the active languages will then show up as selection for the user when they come to read the document:
+
+
+
+
+
