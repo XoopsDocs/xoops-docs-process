@@ -21,7 +21,7 @@
 2. Every time you save your work in the Editor, it will be saved in the GitHub repository.
 3. If you have set a GitBook webhook to the repository, every time you commit your work to GitHub repository, it will trigger GitBook to re-publish the book<br><br>
 >![image001.png](../assets/info/info.png) **NOTE:** Webhooks allow external services to be notified when certain events happen on GitHub. When the specified events happen, GitHub will send a POST request to each of the URLs you provide. Learn more in the [Webhooks Guide](https://developer.github.com/webhooks/).
-4. The user will then have automatically access to the latest and greatest version of your book
+4. By keeping the book automatically updated, the readers will have always access to the latest and greatest version of your book
 
 ### 3) Detailed steps
 
@@ -40,23 +40,23 @@ which will open this screen: https://www.gitbook.com/new below:
 
 ![image001.png](../assets/gitbook6_newbook2.png)
 
-1. Select the kind of book you want to write. In our case, the Basic book is what we're using
-2. Set the name of the book. For XOOPS Tutorials, we're using "XOOPS XYZ Module", where XYZ is the name of the module, e.g. "XOOPS Protector Module"
-3. Click then on the "Save" Button
+1. Select the kind of book you want to write. In XOOPS case, the Basic book is what we're using
+2. Set the name of the book. For XOOPS Tutorials, we're using "**XOOPS XYZ Module**", where **XYZ** is the name of the module, e.g. "**XOOPS Protector Module**"
+3. Click on the "Save" Button
 
 ![image001.png](../assets/gitbook7_settings.jpg)
 
-1) After the book has been created, we need to connect it to the GitHub repository via the Settings. Please note that from this screen we can also click on the top buttons to Edit or View the book
+1) After the book has been created, we need to connect it to the GitHub repository via the Settings. Please note that from this screen you can also click on the top buttons to Edit or View the book
 
 ![image001.png](../assets/gitbook7_settingsgithub.png)
 
-After we click on the Settings, we click on the "GitHub Integration" button
+After you click on the Settings, click on the "GitHub Integration" button
 
 ![image001.png](../assets/gitbook7_settingsgithub2.png)
 
-1. To connect the book to the GitHub Repository, we enter the name of the Account and the repository on GitHub (e.g. XoopsDocs/xyz-tutorial)
-2. If we want GitBook to update the book every time the repository is changed, we need to add the "webhook" by clicking on the link here
-3. Let's save the Settings, just in case
+1. To connect the book to the GitHub Repository, you enter the name of the Account and the repository on GitHub (e.g. **XoopsDocs/xyz-tutorial**)
+2. If you want GitBook to update the book every time the repository is changed, you need to add the "webhook" by clicking on the link here
+3. Let's save the Settings
 4. From here, we can now click on the Edit button and start writing our new book! 
 
 
