@@ -1,6 +1,6 @@
 # Table of Content
 
-* [GitBook Overview](book/ch1.md)
+* [XOOPS & GitBook](book/ch1.md)
 * [Process requirements](book/ch2.md)
 * [Process Workflow](book/ch3.md)
 * [Documentation Standards](book/ch4.md)
