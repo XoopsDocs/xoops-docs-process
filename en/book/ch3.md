@@ -8,6 +8,6 @@
 
 ![image001.png](../assets/gitbook4.jpg)
 
-![image001.png](../directorystructure.png)
+![image001.png](../assets/directorystructure.png)
 
-![image001.png](../directorystructure_international.png)
+![image001.png](../assets/directorystructure_international.png)
