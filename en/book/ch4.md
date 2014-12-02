@@ -64,7 +64,9 @@ with the LANGS.md file containing list of languages which you can activate or de
 ```
 Please note that the active languages will then show up as selection for the user when they come to read the document.
 
+5) Please note that the structure for each Book is as follow:
 
-
+- README.md is the file with Introduction
+- SUMMARY.md is the Table of Contents, which is used on the left-hand side providing you with links to the content.
 
 
