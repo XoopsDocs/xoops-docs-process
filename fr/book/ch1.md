@@ -2,7 +2,7 @@
 
 #### How to write XOOPS Documentation using GitHub and GitBook
 
-![logoXoops.jpg](../assets/logoXoops.jpg)
+![](../../en/assets/logoXoops.jpg)
 
 XOOPS was always known for a very good code, good architecture, and its modular approach, but we were never able to create good documentation.
 
