@@ -1,1 +1,0 @@
-# Operating Instructions
