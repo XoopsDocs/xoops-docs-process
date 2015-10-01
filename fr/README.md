@@ -3,7 +3,7 @@ XOOPS Docs Process
 
 #### Comment écrire XOOPS Documentation utilisant GitHub et GitBook
 
-![logoXoops.jpg](../assets/logoXoops.jpg)
+![](../en/assets/logoXoops.jpg)
 
 [**XOOPS**](http://xoops.org)  a toujours été connu pour un très bon code, une bonne architecture, et son approche modulaire, mais nous ne avons jamais nous capables de créer une bonne documentation.
 
