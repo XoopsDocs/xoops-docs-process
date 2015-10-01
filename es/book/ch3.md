@@ -3,7 +3,7 @@
 ### 1) Setup
 
 
-![image001.png](../assets/gitbook4.png)
+![image001.png](../../en/assets/gitbook4.png)
 
 
 1. Create a GitHub repository for your book (fork existing or create a new one)
@@ -14,7 +14,7 @@
 ### 2) Writing and publishing a book
 
 
-![image001.png](../assets/gitbook5.png)
+![image001.png](../../en/assets/gitbook5.png)
 
 
 1. Write a new book or edit an existing one using the GitBook Editor 
@@ -34,25 +34,25 @@
 Of course, you can also use your favorite way of interacting with Git, incl. the command line. 
 * Now go to GitBook and click on the "+" sign there on top: 
 
-![image001.png](../assets/gitbook6_newbook.png)
+![image001.png](../../en/assets/gitbook6_newbook.png)
 
 which will open this screen: https://www.gitbook.com/new below:
 
-![image001.png](../assets/gitbook6_newbook2.png)
+![image001.png](../../en/assets/gitbook6_newbook2.png)
 
 1. Select the kind of book you want to write. In XOOPS case, the Basic book is what we're using
 2. Set the name of the book. For XOOPS Tutorials, we're using "**XOOPS XYZ Module**", where **XYZ** is the name of the module, e.g. "**XOOPS Protector Module**"
 3. Click on the "Save" Button
 
-![image001.png](../assets/gitbook7_settings.jpg)
+![image001.png](../../en/assets/gitbook7_settings.jpg)
 
 1) After the book has been created, we need to connect it to the GitHub repository via the Settings. Please note that from this screen you can also click on the top buttons to Edit or View the book
 
-![image001.png](../assets/gitbook7_settingsgithub.png)
+![image001.png](../../en/assets/gitbook7_settingsgithub.png)
 
 After you click on the Settings, click on the "GitHub Integration" button
 
-![image001.png](../assets/gitbook7_settingsgithub2.png)
+![image001.png](../../en/assets/gitbook7_settingsgithub2.png)
 
 1. To connect the book to the GitHub Repository, you enter the name of the Account and the repository on GitHub (e.g. **XoopsDocs/xyz-tutorial**)
 2. If you want GitBook to update the book every time the repository is changed, you need to add the "webhook" by clicking on the link here
