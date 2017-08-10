@@ -1,32 +1,29 @@
-# Process requirements
+# Prozesserfordernisse
 
-The process of creation XOOPS Documentation using **GitBook** and **GitHub** requires:
+Für den Erstellungsprozess einer XOOPS-Dokumentation unter Verwendung von **GitBook** und **GitHub** benötigst Du:
 
-- Account on **GitHub** (http://www.github.com)
-    - basic knowledge of using GitHub Website
-    - basic understanding of using Git as Versioning system
-    - basic knowledge of **Markdown** 
-- Account on **GitBook** (http://www.gitbook.com)
-    -   to learn more about GitBook, please read [this publication](http://help.gitbook.io/)
+- Einen Account bei **GitHub** (http://www.github.com)
+    - grundsätzliche Kenntnisse über die Verwendung der GitHub-Website
+    - grundsätzliches Verständnis über die Verwendung von Git als Versionierungssystem
+    - grundsätzliche Kenntnisse über **Markdown** 
+- Einen Account auf **GitBook** (http://www.gitbook.com)
+    - um mehr über GitBook zu erfahren, lies bitte [diese Veröffentlichung](http://help.gitbook.io/)
 
-#### Creating a GitHub Repository for the book
+#### Erstellen eines GitHub-Verzeichnisses für das Buch
 
+Es gibt zwei Möglichkeiten, wie Du zu einer XOOPS-Dokumentation beitragen kannst:
 
-There are two ways to contribute to XOOPS Documentation:
+**a) Erstelle einen Fork (Zweig) von einem existierenden Buch/Tutorial**
 
-**a) Fork an existing book/tutorial**
+Um dies zu erreichen, gehe zu einem bestehenden Tutorial auf **[GitHub XOOPS Docs](https://github.com/XoopsDocs)**, und erstelle einen Fork (Zweig), indem Du auf die Schaltfläche Fork klickst: ([screenshot](http://mrm-screen.s3.amazonaws.com/MrMaksimizegitbookstarterkit_20140707_085000_20140707_085006.png))
+* Benenne das Verzeichnis so um, wie Du dies gerne haben möchtest:
+  * Klicke auf Einstellungen auf der Übersichtsseite Deines Fork-Verzeichnisses (durch das Forken wird eine Kopie des Originalverzeichnisses unter Deinem Namen erstellt). ([screenshot](http://mrm-screen.s3.amazonaws.com/MrMaksimizegitbookstarterkit_20140707_100321_20140707_100325.png))
+  * Wenn gewünscht, dann benenne den Namen Deines Verzeichnisses um ([screenshot](http://mrm-screen.s3.amazonaws.com/Options_20140707_100417_20140707_100421.png))
+* Wenn Du das Dokument lokal bearbeiten möchtest, dann klone Dein Verzeichnis auf Deinen Rechner. Für Windows-Benutzer steht [GitHub for Windows](https://windows.github.com/) zur Verfügung, welches sehr hilfreich sein kann. Du must nur auf die "Klonen"-Schaltfläche klicken, und GitHub übernimmt den Rest für Dich.
+Natürlich kannst Du auch Deine persönliche Art der Interaktion mit Git verwenden, inklusive der Verwendung von Kommandozeilen.
 
-To do so, go to an existing tutorial on **[GitHub XOOPS Docs](https://github.com/XoopsDocs)**, and fork it by clicking on the Fork Button: ([screenshot](http://mrm-screen.s3.amazonaws.com/MrMaksimizegitbookstarterkit_20140707_085000_20140707_085006.png))
-* Rename the repo to what you want your book to be called:
-  * Click settings from the home screen of the forked repo (forking creates a copy of the repository under your username). ([screenshot](http://mrm-screen.s3.amazonaws.com/MrMaksimizegitbookstarterkit_20140707_100321_20140707_100325.png))
-  * Rename the repo if needed ([screenshot](http://mrm-screen.s3.amazonaws.com/Options_20140707_100417_20140707_100421.png))
-* Clone the repo to your machine, if you want to work on the document locally. For Windows users there is the [GitHub for Windows](https://windows.github.com/), which can be very helpful. You just need to click the "Clone" button on your repository, and GitHub will take care of the rest.
-Of course, you can also use your favorite way of interacting with Git, incl. the command line. 
+**b) Erstellen eines vollständig neuen Buches/Tutorial**
 
-**b) Creating a new book/tutorial from scratch**
-
-* You can also start writing a book/tutorial from scratch by creating a new repository in your account. 
-* In this case, we recommend to use the "**[XOOPS Documentation Starter Kit](https://github.com/XoopsDocs/gitbook-starterkit)**", that has already a predefined projects structure and the required files, making it easier for you to just start writing. There is more information about it in the last chapter in this publication.
-
-
-
+* Du kannst auch mit dem Schreiben eines vollständig neuen Buches/Tutorials beginnen, indem Du ein neues Verzeichnis in Deinem Account erstellt.
+* In diesem Fall empfehlen wir die Verwendung des "**[XOOPS Documentation Starter Kits](https://github.com/XoopsDocs/gitbook-starterkit)**", das bereits die vordefinierte Projektstruktur besitzt und alle erforderlichen Dateien enthält, sodass es viel einfacher für Dich wird, einfach loszulegen.
+Weitere Informationen findest Du außerdem im letzten Kapitel dieser Dokumentation.

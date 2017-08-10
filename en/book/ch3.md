@@ -19,7 +19,8 @@
 
 1. Write a new book or edit an existing one using the GitBook Editor 
 2. Every time you save your work in the Editor, it will be saved in the GitHub repository.
-3. If you have set a GitBook webhook to the repository, every time you commit your work to GitHub repository, it will trigger GitBook to re-publish the book<br><br>
+3. If you have set a GitBook webhook to the repository, every time you commit your work to GitHub repository, it will trigger GitBook to re-publish the book
+
 >![image001.png](../assets/info/info.png) **NOTE:** Webhooks allow external services to be notified when certain events happen on GitHub. When the specified events happen, GitHub will send a POST request to each of the URLs you provide. Learn more in the [Webhooks Guide](https://developer.github.com/webhooks/).
 4. By keeping the book automatically updated, the readers will have always access to the latest and greatest version of your book
 

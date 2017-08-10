@@ -1,29 +1,30 @@
 # XOOPS & GitBook
 
-#### How to write XOOPS Documentation using GitHub and GitBook
+#### Wie man eine XOOPS-Dokumentation unter Verwendung von GitHub und GitBook erstellt
 
-![](../../en/assets/logoXoops.jpg)
+![logoXoops.jpg](../assets/logoXoops.jpg)
 
-XOOPS was always known for a very good code, good architecture, and its modular approach, but we were never able to create good documentation.
+[**XOOPS**](http://xoops.org)  war immer für einen sehr guten Code, gute Architektur und seinen modularen Ansatz bekannt, aber wir waren nie in der Lage, eine gute Dokumentation zu erstellen.
 
-With the recent technological advances, especially around GitHub, we believe we have now found tools that will help us to:
+Mit den jüngsten technologischen Fortschritten, vor allem rund um GitHub, glauben wir, dass wir jetzt Werkzeuge gefunden haben, die uns helfen werden:
 
-a) streamline the process and make it more efficient
-b) engage the community by leveraging the same "forking and submitting pull requests" process as they they user at the normal coding activities.
+a) den Prozess zu rationalisieren und es effizienter zu gestalten
+b) die Gemeinschaft zu motivieren, da man die gleichen Verfahren "Forking und Einreichen von Pull-Anforderungen" benutzt, die jeder bereits bei den normalen Kodierungsaktivitäten verwendet.
 
-##Why Gitbook?
+## Warum Gitbook?
 
-GitBook is a tool for building beautiful books using Markdown syntax. It can generate your book in multiple formats: **PDF**, **ePub**, **mobi** or as a **Website**. By leveraging GitHub, it provides the best collaboration tool for developers and documentation writers to work together, and with an excellent versioning system as a foundation. 
+GitBook ist ein Tool für die Erstellung von tollen Büchern unter Verwendung des Markdown Syntax. Es kann Deine Bücher in verschiedenen Formaten generieren: **PDF**, **ePub**, **mobi** oder als eine **Website**. Bei einen richtigen Einsatz von Github ist dies ein effizientes Tool für die Zusammenarbeit von Entwicklern und Dokumentationserstellern, das außerdem auf ein exzellentes Versionierungssystem aufbaut.
 
-The biggest advantage for Open Source projects such as XOOPS, is that everybody can contribute to the documentation by simply forking the document and submitting changes back to the team.
+Der größte Vorteil für Opensource-Projekte wie XOOPS ist, dass jeder einen Beitrag leisten kann, indem er einfach einen Fork des Dokumentes erstellt und die durchgeführten Änderungen an das Team zurückschickt.
 
-Another advantage of GitBook is the option to have multi-lingual versions in one single repository, with users being able to select their language. Since XOOPS is a very international project, this is very important to us. 
+Ein weiterer großer Vorteil von Gitbook ist, dass es mehrsprachige Versionen in einem Verzeichnis unterstützt, und Benutzer in der Lage sind, deren Sprache zu verwenden. Da XOOPS ein internationales Projekt ist, ist uns dies sehr wichtig.
 
-## More Information
-If you would like to learn more about GitBook, you can use their [help site](http://help.gitbook.io) or their super useful [README](https://github.com/GitbookIO/gitbook/blob/master/README.md).  Everything regarding how to work with this GitBook is there.
+## Weitere Informationen
+Wenn Du mehr über Gitbook lernen möchtest, dann schau auf deren [Hilfeseite](http://help.gitbook.io) oder auf deren sehr nützlichen [README](https://github.com/GitbookIO/gitbook/blob/master/README.md). 
+Alles im Bezug auf die Arbeit und den Umgang mit Gitbook findest Du dort.
 
-##License:
+## Lizenz:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Sofern nicht ausdrücklich anders spezifiziert, fällt der Inhalt dieses Dokumentes unter die Lizenzbestimmungen <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-All derivative works are to be attributed to XOOPS Project ( [www.xoops.org](http://xoops.org) )
+Alle Derivate sind Bestandteil des XOOPS Project ( [www.xoops.org](http://xoops.org) )
