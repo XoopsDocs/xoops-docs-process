@@ -7,10 +7,9 @@ The process of creation XOOPS Documentation using **GitBook** and **GitHub** req
     - basic understanding of using Git as Versioning system
     - basic knowledge of **Markdown** 
 - Account on **GitBook** (http://www.gitbook.com)
-    -   to learn more about GitBook, please read [this publication](http://help.gitbook.io/)
+    - to learn more about GitBook, please read [this publication](http://help.gitbook.io/)
 
 #### Creating a GitHub Repository for the book
-
 
 There are two ways to contribute to XOOPS Documentation:
 
@@ -27,6 +26,3 @@ Of course, you can also use your favorite way of interacting with Git, incl. the
 
 * You can also start writing a book/tutorial from scratch by creating a new repository in your account. 
 * In this case, we recommend to use the "**[XOOPS Documentation Starter Kit](https://github.com/XoopsDocs/gitbook-starterkit)**", that has already a predefined projects structure and the required files, making it easier for you to just start writing. There is more information about it in the last chapter in this publication.
-
-
-

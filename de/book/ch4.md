@@ -1,33 +1,33 @@
-# Documentation Standards
+# Dokumentations-Standards
 
-1) Please use the standard way of writing documentation using Markdown, and review the existing XOOPS Documents as examples
+1) Bitte verwende die Standardschreibweisen für die Erstellung einer Dokumenation mit Markdown, schau Dir erforderlichenfalls bestehende XOOPS-Dokumente als Beispiel an
 
-2) Please consider making your documents Multi-lingual from the very beginning
+2) Bitte achte darauf, dass Dein Dokument von Anfang an mehrsprachig aufgebaut ist
 
-3) Please use following standards for Info/Tips:
+3) Bitte verwende nachstehende Standards für die Angabe von Infos/Tipps:
 
 
->![image001.png](../../en/assets/info/tips.gif) **TIP:** These images below do NOT have tool tip information.
+>![image001.png](../assets/info/tips.gif) **TIPP:** Die Bilder besitzen keine Tooltip-Information.
 
->![image001.png](../../en/assets/info/info.png) **NOTE:** These images below do NOT have tool tip information.
+>![image001.png](../assets/info/info.png) **BEACHTE:** Die Bilder besitzen keine Tooltip-Information.
 
->![image001.png](../../en/assets/info/important.png) **WARNING:** These images below do NOT have tool tip information.
+>![image001.png](../assets/info/important.png) **ACHTUNG:** Die Bilder besitzen keine Tooltip-Information.
 
->![image001.png](../../en/assets/info/stop.png) **IMPORTANT:** These images below do NOT have tool tip information.
+>![image001.png](../assets/info/stop.png) **WICHTIG:** Die Bilder besitzen keine Tooltip-Information.
 
-4) When creating a XOOPS Tutorial in GitBook, please call it: **"XOOPS XYZ Module"**, replacing the "XYZ" with the name of the module, e.g. "XOOPS Protector Module"
+4) Beim Erstellen eines XOOPS-Tutorials in GitBook benenne es wie folgt: **"XOOPS XYZ Module"**, ersetze "XYZ" durch den Namen des Moduls, z.B. "XOOPS Protector Module"
 
-5) Directory structure
+5) Verzeichnisstruktur
 
-![image001.png](../../en/assets/directorystructure.jpg)  
+![image001.png](../assets/directorystructure.jpg)  
 
-Above you can see the typical directory structure for a Gitbook document. Within the /book folder, you can have additional folders if needed (e.g. for individual chapters)
+Hier kanns Du die typische Verzeichnisstruktur für ein Gitbook-Dokument sehen. Innerhalb des /book-Ordners kannst Du zusätzliche Unterordner je anch Bedarf anlegen (z.B. für die verschiedenen Kapitel)
 
-For Multi-lingual documents, the top structure will look like this:
+Für mehrsprachige Dokumente sieht die Struktur wie folgt aus:
 
-![image001.png](../../en/assets/directorystructure_international.png) 
+![image001.png](../assets/directorystructure_international.png) 
 
-with the LANGS.md file containing list of languages which you can activate or deactivate:
+Die Datei LANGS.md enthält eine Liste aller Sprachen die (de-)aktiviert werden können:
 ```markdown
 * [English](en)
 * [Deutsch](de)
@@ -62,11 +62,10 @@ with the LANGS.md file containing list of languages which you can activate or de
 * [中文](zh)
 -->
 ```
-Please note that the active languages will then show up as selection for the user when they come to read the document.
+Bitte beachte, dass alle aktiven Sprachen den Leser in einer Auswahl zur Verfügung gestellt werden, wenn sie Dein Dokument lesen wollen.
 
-5) Please note that the structure for each Book is as follow:
+5) Bitte beachte, dass die Struktur für jede Sprachversion eines Buches wie folgt ist:
 
-- README.md is the file with Introduction
-- SUMMARY.md is the Table of Contents, which is used on the left-hand side providing you with links to the content.
-
+- README.md ist die Einleitungsdatei
+- SUMMARY.md ist das Inhaltsverzeichnis, das auf der linken Seite alle Links zu den verfügbaren Inhalten anzeigt
 
