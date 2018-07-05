@@ -1,4 +1,4 @@
-# SUMMARY
+# Table of contents
 
 * [Chapter 1: Introduction](book/ch1.md)
 * [Chapter 2: Process requirements](book/ch2.md)

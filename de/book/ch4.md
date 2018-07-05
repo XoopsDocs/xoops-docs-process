@@ -1,4 +1,4 @@
-# ch4
+# Dokumentationsstandards​
 
 1\) Bitte verwende die Standardschreibweisen für die Erstellung einer Dokumenation mit Markdown, schau Dir erforderlichenfalls bestehende XOOPS-Dokumente als Beispiel an
 

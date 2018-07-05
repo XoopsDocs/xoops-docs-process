@@ -1,4 +1,4 @@
-# ch5
+# XOOPS Docs Starter-Kit
 
 Um den Prozess zur Erstellung einer XOOPS-Documentation möglichst einfach zu gestalten, haben wir ein Starter-Kit zusammengestellt, das im Moment enthält:
 

@@ -1,6 +1,5 @@
 # Table of contents
 
-* [README](README.md)
 * [DEUTSCH](de/README.md)
   * [Deutsch](de/book/README.md)
     * [Introduction](de/book/ch1.md)
@@ -10,9 +9,9 @@
     * [XOOPS Docs Starter-Kit](de/book/ch5.md)
     * [Credits](de/book/9credits.md)
     * [About XOOPS](de/book/10aboutxoops.md)	
-  * [SUMMARY](de/summary.md)
+  * [Table of contents](de/summary.md)
 * [Español](es/README.md)
-  * [SUMMARY](es/summary.md)
+  * [Table of contents](es/summary.md)
   * [book](es/book/README.md)
     * [Introduction](es/book/ch1.md)
     * [Process requirements](es/book/ch2.md)
@@ -40,5 +39,5 @@
     * [XOOPS Docs Starter-Kit](en/book/ch5.md)	
     * [Credits](en/book/9credits.md)	
     * [About XOOPS](en/book/10aboutxoops.md)
-  * [SUMMARY](en/summary.md)
+* [Table of contents](en/summary.md)
 

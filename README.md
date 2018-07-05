@@ -1,9 +1,8 @@
 # XOOPS Docs Process
-============
-
-#### How to write XOOPS Documentation using GitHub and GitBook
 
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
+
+## How to write XOOPS Documentation using GitHub and GitBook
 
 [**XOOPS**](https://xoops.org) was always known for a very good code, good architecture, and its modular approach, but we were never able to create good documentation.
 

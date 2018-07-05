@@ -1,4 +1,4 @@
-# ch2
+# Prozesserfordernisse
 
 Für den Erstellungsprozess einer XOOPS-Dokumentation unter Verwendung von **GitBook** und **GitHub** benötigst Du:
 
