@@ -17,7 +17,8 @@ b) engage the community by leveraging the same "forking and submitting pull requ
 * [Process Workflow](en/book/ch3.md)
 * [Documentation Standards](en/book/ch4.md)
 * [XOOPS Docs Starter-Kit](en/book/ch5.md)
-* [Credits](en/book/9credits.md)
+* [Credits](book/credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 
 ##License:

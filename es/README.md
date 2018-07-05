@@ -1,6 +1,5 @@
 # Español
 
-
 ## How to write XOOPS Documentation using GitHub and GitBook
 
 ![](../en/assets/logoXoops.jpg)
@@ -18,6 +17,8 @@ b) participar a la comunidad, aprovechando el mismo proceso "que se bifurcan y p
 * [Chapter 3: Process tools](book/ch3.md)
 * [Chapter 4: Process Standards](book/ch4.md)
 * [Chapter 5: XOOPS Docs Starter-Kit](book/ch5.md)
+* [Credits](book/credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ##License:
 
