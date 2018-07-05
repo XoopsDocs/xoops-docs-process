@@ -13,7 +13,7 @@ The process of creation XOOPS Documentation using **GitBook** and **GitHub** req
 
 There are two ways to contribute to XOOPS Documentation:
 
-**a\) Fork an existing book/tutorial**
+**a) Fork an existing book/tutorial**
 
 To do so, go to an existing tutorial on [**GitHub XOOPS Docs**](https://github.com/XoopsDocs), and fork it by clicking on the Fork Button: \([screenshot](http://mrm-screen.s3.amazonaws.com/MrMaksimizegitbookstarterkit_20140707_085000_20140707_085006.png)\)
 
