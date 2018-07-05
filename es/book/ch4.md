@@ -1,34 +1,34 @@
-# Documentation Standards
+# ch4
 
-1) Please use the standard way of writing documentation using Markdown, and review the existing XOOPS Documents as examples
+1\) Please use the standard way of writing documentation using Markdown, and review the existing XOOPS Documents as examples
 
-2) Please consider making your documents Multi-lingual from the very beginning
+2\) Please consider making your documents Multi-lingual from the very beginning
 
-3) Please use following standards for Info/Tips:
+3\) Please use following standards for Info/Tips:
 
+> ![image001.png](https://github.com/xoops/xoops-documentation-process/tree/2184668a440f6665572a6217960e9650b439de70/es/assets/info/tips.gif) **TIP:** These images below do NOT have tool tip information.
+>
+> ![image001.png](https://github.com/xoops/xoops-documentation-process/tree/2184668a440f6665572a6217960e9650b439de70/es/assets/info/info.png) **NOTE:** These images below do NOT have tool tip information.
+>
+> ![image001.png](https://github.com/xoops/xoops-documentation-process/tree/2184668a440f6665572a6217960e9650b439de70/es/assets/info/important.png) **WARNING:** These images below do NOT have tool tip information.
+>
+> ![image001.png](https://github.com/xoops/xoops-documentation-process/tree/2184668a440f6665572a6217960e9650b439de70/es/assets/info/stop.png) **IMPORTANT:** These images below do NOT have tool tip information.
 
->![image001.png](../assets/info/tips.gif) **TIP:** These images below do NOT have tool tip information.
+4\) When creating a XOOPS Tutorial in GitBook, please call it: **"XOOPS XYZ Module"**, replacing the "XYZ" with the name of the module, e.g. "XOOPS Protector Module"
 
->![image001.png](../assets/info/info.png) **NOTE:** These images below do NOT have tool tip information.
+5\) Directory structure
 
->![image001.png](../assets/info/important.png) **WARNING:** These images below do NOT have tool tip information.
+![image001.png](https://github.com/xoops/xoops-documentation-process/tree/2184668a440f6665572a6217960e9650b439de70/es/assets/directorystructure.jpg)
 
->![image001.png](../assets/info/stop.png) **IMPORTANT:** These images below do NOT have tool tip information.
-
-4) When creating a XOOPS Tutorial in GitBook, please call it: **"XOOPS XYZ Module"**, replacing the "XYZ" with the name of the module, e.g. "XOOPS Protector Module"
-
-5) Directory structure
-
-![image001.png](../assets/directorystructure.jpg)  
-
-Above you can see the typical directory structure for a Gitbook document. Within the /book folder, you can have additional folders if needed (e.g. for individual chapters)
+Above you can see the typical directory structure for a Gitbook document. Within the /book folder, you can have additional folders if needed \(e.g. for individual chapters\)
 
 For Multi-lingual documents, the top structure will look like this:
 
-![image001.png](../assets/directorystructure_international.png) 
+![image001.png](https://github.com/xoops/xoops-documentation-process/tree/2184668a440f6665572a6217960e9650b439de70/es/assets/directorystructure_international.png)
 
 with the LANGS.md file containing list of languages which you can activate or deactivate:
-```markdown
+
+```text
 * [English](en)
 * [Deutsch](de)
 * [Español](es)
@@ -62,11 +62,11 @@ with the LANGS.md file containing list of languages which you can activate or de
 * [中文](zh)
 -->
 ```
+
 Please note that the active languages will then show up as selection for the user when they come to read the document.
 
-5) Please note that the structure for each Book is as follow:
+5\) Please note that the structure for each Book is as follow:
 
-- README.md is the file with Introduction
-- SUMMARY.md is the Table of Contents, which is used on the left-hand side providing you with links to the content.
-
+* README.md is the file with Introduction
+* SUMMARY.md is the Table of Contents, which is used on the left-hand side providing you with links to the content.
 

@@ -58,33 +58,22 @@ XOOPS has over 6,600,000 downloads from the SourceForge Website.
 
 ###**The current development is on GitHub: **
 
-
 To see what's coming, please check out our **XOOPS GitHub repositories**:
 
-- [XOOPS 2.6.0 Core](https://github.com/XOOPS)
-
-- [XOOPS 2.6.0 Modules](https://github.com/XoopsModules26x)
-
-
-- [XOOPS 2.6.0 Roadmap](https://github.com/XOOPS/XoopsCore/labels/roadmap)
+* [XOOPS 2.6.0 Core](https://github.com/XOOPS)
+* [XOOPS 2.6.0 Modules](https://github.com/XoopsModules26x)
+* [XOOPS 2.6.0 Roadmap](https://github.com/XOOPS/XoopsCore/labels/roadmap)
 
 and the new GUI:
 
-- [XOOPS 2.6.0 Enhanced Admin GUI](https://github.com/XOOPS/XoopsCore/issues/252)
-
+* [XOOPS 2.6.0 Enhanced Admin GUI](https://github.com/XOOPS/XoopsCore/issues/252)
 
 Please also check out our other Github repositories:
 
-- [XOOPS Documentation](https://github.com/XoopsDocs)
-
-- [XOOPS current Themes](https://github.com/XoopsThemes)
-
-- [XOOPS 2.5.x Modules](https://github.com/XoopsModules25x)
-
-- [XOOPS 2.0.14+ Themes, 3 columns](https://github.com/XoopsThemes25xArchive-3col)
-
-- [XOOPS 2.0.14+ Themes (2 columns)](https://github.com/XoopsThemes25xArchive-2col)
-
-- [XOOPS Theme Archive (Themes for XOOPS < 2.0.14)](https://github.com/XoopsThemesArchive)
-
-- [XOOPS Modules Archive](https://github.com/XoopsModulesArchive)
+* [XOOPS Documentation](https://github.com/XoopsDocs)
+* [XOOPS current Themes](https://github.com/XoopsThemes)
+* [XOOPS 2.5.x Modules](https://github.com/XoopsModules25x)
+* [XOOPS 2.0.14+ Themes, 3 columns](https://github.com/XoopsThemes25xArchive-3col)
+* [XOOPS 2.0.14+ Themes \(2 columns\)](https://github.com/XoopsThemes25xArchive-2col)
+* [XOOPS Theme Archive \(Themes for XOOPS &lt; 2.0.14\)](https://github.com/XoopsThemesArchive)
+* [XOOPS Modules Archive](https://github.com/XoopsModulesArchive)
