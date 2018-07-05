@@ -1,7 +1,6 @@
 # Deutsch
-============
 
-### Wie man eine XOOPS Dokumentation mit GitHub und GitBook schreibt
+## Wie man eine XOOPS Dokumentation mit GitHub und GitBook schreibt
 
 ![](../en/assets/logoXoops.jpg)
 
@@ -19,6 +18,8 @@ b) die Gemeinschaft zu motivieren durch die Nutzung der gleichen "Forking und Ei
 * [Chapter 3: Process tools](book/ch3.md)
 * [Chapter 4: Process Standards](book/ch4.md)
 * [Chapter 5: XOOPS Docs Starter-Kit](book/ch5.md)
+* [Credits](book/credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ##License:
 

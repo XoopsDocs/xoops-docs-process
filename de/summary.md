@@ -1,4 +1,4 @@
-# SUMMARY
+# Table of contents
 
 * [XOOPS & GitBook](book/ch1.md)
 * [Prozesserfordernisse](book/ch2.md)
