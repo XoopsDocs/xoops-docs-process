@@ -1,7 +1,7 @@
 # Español
-============
 
-#### How to write XOOPS Documentation using GitHub and GitBook
+
+## How to write XOOPS Documentation using GitHub and GitBook
 
 ![](../en/assets/logoXoops.jpg)
 
