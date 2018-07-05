@@ -1,8 +1,8 @@
 # XOOPS & GitBook
 
-### Wie man eine XOOPS-Dokumentation unter Verwendung von GitHub und GitBook erstellt
+![](../assets/logoXoops.jpg)
 
-![logoXoops.jpg](../../.gitbook/assets/logoxoops.jpg)
+## Wie man eine XOOPS-Dokumentation unter Verwendung von GitHub und GitBook erstellt
 
 [**XOOPS**](http://xoops.org) war immer für einen sehr guten Code, gute Architektur und seinen modularen Ansatz bekannt, aber wir waren nie in der Lage, eine gute Dokumentation zu erstellen.
 
