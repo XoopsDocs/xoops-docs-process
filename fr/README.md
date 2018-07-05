@@ -19,6 +19,7 @@ b) d'engager la communauté en se appuyant sur le même processus "bifurquer et 
 * [Chapter 4: Process Standards](book/ch4.md)
 * [Chapter 5: XOOPS Docs Starter-Kit](book/ch5.md)
 * [Credits](book/credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ##License:
 
