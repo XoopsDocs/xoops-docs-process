@@ -1,2 +1,2 @@
-# Français
+# FranÃ§ais
 
