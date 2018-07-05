@@ -7,4 +7,3 @@
 * [XOOPS Docs Starter-Kit](book/ch5.md)
 * [Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
-

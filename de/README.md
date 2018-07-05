@@ -1,8 +1,8 @@
 # Deutsch
 
-## Wie man eine XOOPS Dokumentation mit GitHub und GitBook schreibt
-
 ![](../en/assets/logoXoops.jpg)
+
+## Wie man eine XOOPS Dokumentation mit GitHub und GitBook schreibt
 
 [**XOOPS**](https://xoops.org)  war immer für einen sehr guten Code, gute Architektur und seinen modularen Ansatz bekannt, aber wir waren nie in der Lage, eine gute Dokumentation zu erstellen.
 
@@ -21,7 +21,7 @@ b) die Gemeinschaft zu motivieren durch die Nutzung der gleichen "Forking und Ei
 * [Credits](book/credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
