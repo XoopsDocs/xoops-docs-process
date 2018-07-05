@@ -1,5 +1,4 @@
-# Français
-============
+# Français XOOPS Docs Process
 
 #### Comment écrire XOOPS Documentation utilisant GitHub et GitBook
 
@@ -19,6 +18,7 @@ b) d'engager la communauté en se appuyant sur le même processus "bifurquer et 
 * [Chapter 3: Process tools](book/ch3.md)
 * [Chapter 4: Process Standards](book/ch4.md)
 * [Chapter 5: XOOPS Docs Starter-Kit](book/ch5.md)
+* [Credits](book/credits.md)
 
 ##License:
 
