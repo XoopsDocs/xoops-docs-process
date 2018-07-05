@@ -1,4 +1,4 @@
-# ch1
+# XOOPS & GitBook
 
 ### Wie man eine XOOPS-Dokumentation unter Verwendung von GitHub und GitBook erstellt
 
@@ -8,7 +8,8 @@
 
 Mit den jüngsten technologischen Fortschritten, vor allem rund um GitHub, glauben wir, dass wir jetzt Werkzeuge gefunden haben, die uns helfen werden:
 
-a\) den Prozess zu rationalisieren und es effizienter zu gestalten b\) die Gemeinschaft zu motivieren, da man die gleichen Verfahren "Forking und Einreichen von Pull-Anforderungen" benutzt, die jeder bereits bei den normalen Kodierungsaktivitäten verwendet.
+a) den Prozess zu rationalisieren und es effizienter zu gestalten 
+b) die Gemeinschaft zu motivieren, da man die gleichen Verfahren "Forking und Einreichen von Pull-Anforderungen" benutzt, die jeder bereits bei den normalen Kodierungsaktivitäten verwendet.
 
 ## Warum Gitbook?
 
@@ -29,3 +30,4 @@ Sofern nicht ausdrücklich anders spezifiziert, fällt der Inhalt dieses Dokumen
 
 Alle Derivate sind Bestandteil des XOOPS Project \( [www.xoops.org](http://xoops.org) \)
 
+All derivative works are to be attributed to XOOPS Project ( [www.xoops.org](http://xoops.org) )
