@@ -1,34 +1,34 @@
-# Dokumentations-Standards
+# ch4
 
-1) Bitte verwende die Standardschreibweisen für die Erstellung einer Dokumenation mit Markdown, schau Dir erforderlichenfalls bestehende XOOPS-Dokumente als Beispiel an
+1\) Bitte verwende die Standardschreibweisen für die Erstellung einer Dokumenation mit Markdown, schau Dir erforderlichenfalls bestehende XOOPS-Dokumente als Beispiel an
 
-2) Bitte achte darauf, dass Dein Dokument von Anfang an mehrsprachig aufgebaut ist
+2\) Bitte achte darauf, dass Dein Dokument von Anfang an mehrsprachig aufgebaut ist
 
-3) Bitte verwende nachstehende Standards für die Angabe von Infos/Tipps:
+3\) Bitte verwende nachstehende Standards für die Angabe von Infos/Tipps:
 
+> ![image001.png](../../.gitbook/assets/tips%20%281%29.gif) **TIPP:** Die Bilder besitzen keine Tooltip-Information.
+>
+> ![image001.png](../../.gitbook/assets/info%20%281%29.png) **BEACHTE:** Die Bilder besitzen keine Tooltip-Information.
+>
+> ![image001.png](../../.gitbook/assets/important%20%281%29.png) **ACHTUNG:** Die Bilder besitzen keine Tooltip-Information.
+>
+> ![image001.png](../../.gitbook/assets/stop.png) **WICHTIG:** Die Bilder besitzen keine Tooltip-Information.
 
->![image001.png](../assets/info/tips.gif) **TIPP:** Die Bilder besitzen keine Tooltip-Information.
+4\) Beim Erstellen eines XOOPS-Tutorials in GitBook benenne es wie folgt: **"XOOPS XYZ Module"**, ersetze "XYZ" durch den Namen des Moduls, z.B. "XOOPS Protector Module"
 
->![image001.png](../assets/info/info.png) **BEACHTE:** Die Bilder besitzen keine Tooltip-Information.
+5\) Verzeichnisstruktur
 
->![image001.png](../assets/info/important.png) **ACHTUNG:** Die Bilder besitzen keine Tooltip-Information.
+![image001.png](../../.gitbook/assets/directorystructure.jpg)
 
->![image001.png](../assets/info/stop.png) **WICHTIG:** Die Bilder besitzen keine Tooltip-Information.
-
-4) Beim Erstellen eines XOOPS-Tutorials in GitBook benenne es wie folgt: **"XOOPS XYZ Module"**, ersetze "XYZ" durch den Namen des Moduls, z.B. "XOOPS Protector Module"
-
-5) Verzeichnisstruktur
-
-![image001.png](../assets/directorystructure.jpg)  
-
-Hier kanns Du die typische Verzeichnisstruktur für ein Gitbook-Dokument sehen. Innerhalb des /book-Ordners kannst Du zusätzliche Unterordner je anch Bedarf anlegen (z.B. für die verschiedenen Kapitel)
+Hier kanns Du die typische Verzeichnisstruktur für ein Gitbook-Dokument sehen. Innerhalb des /book-Ordners kannst Du zusätzliche Unterordner je anch Bedarf anlegen \(z.B. für die verschiedenen Kapitel\)
 
 Für mehrsprachige Dokumente sieht die Struktur wie folgt aus:
 
-![image001.png](../assets/directorystructure_international.png) 
+![image001.png](../../.gitbook/assets/directorystructure_international%20%281%29.png)
 
-Die Datei LANGS.md enthält eine Liste aller Sprachen die (de-)aktiviert werden können:
-```markdown
+Die Datei LANGS.md enthält eine Liste aller Sprachen die \(de-\)aktiviert werden können:
+
+```text
 * [English](en)
 * [Deutsch](de)
 * [Español](es)
@@ -62,10 +62,11 @@ Die Datei LANGS.md enthält eine Liste aller Sprachen die (de-)aktiviert werden 
 * [中文](zh)
 -->
 ```
+
 Bitte beachte, dass alle aktiven Sprachen den Leser in einer Auswahl zur Verfügung gestellt werden, wenn sie Dein Dokument lesen wollen.
 
-5) Bitte beachte, dass die Struktur für jede Sprachversion eines Buches wie folgt ist:
+5\) Bitte beachte, dass die Struktur für jede Sprachversion eines Buches wie folgt ist:
 
-- README.md ist die Einleitungsdatei
-- SUMMARY.md ist das Inhaltsverzeichnis, das auf der linken Seite alle Links zu den verfügbaren Inhalten anzeigt
+* README.md ist die Einleitungsdatei
+* SUMMARY.md ist das Inhaltsverzeichnis, das auf der linken Seite alle Links zu den verfügbaren Inhalten anzeigt
 
