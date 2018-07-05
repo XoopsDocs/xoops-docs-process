@@ -5,7 +5,7 @@ XOOPS Docs Process
 
 ![](../en/assets/logoXoops.jpg)
 
-[**XOOPS**](http://xoops.org)  war immer für einen sehr guten Code, gute Architektur und seinen modularen Ansatz bekannt, aber wir waren nie in der Lage, eine gute Dokumentation zu erstellen.
+[**XOOPS**](https://xoops.org)  war immer für einen sehr guten Code, gute Architektur und seinen modularen Ansatz bekannt, aber wir waren nie in der Lage, eine gute Dokumentation zu erstellen.
 
 Mit den jüngsten technologischen Fortschritten, vor allem rund um GitHub, glauben wir, dass wir jetzt Werkzeuge gefunden haben, die uns helfen werden:
 
@@ -24,4 +24,4 @@ b) die Gemeinschaft zu motivieren durch die Nutzung der gleichen "Forking und Ei
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-All derivative works are to be attributed to XOOPS Project ( [www.xoops.org](http://xoops.org) )
+All derivative works are to be attributed to XOOPS Project ( [www.xoops.org](https://xoops.org) )
