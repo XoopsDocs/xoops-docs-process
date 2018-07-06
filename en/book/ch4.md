@@ -6,25 +6,25 @@
 
 3\) Please use following standards for Info/Tips:
 
-> ![image001.png](../../.gitbook/assets/tips.gif) **TIP:** These images below do NOT have tool tip information.
+> ![](../../.gitbook/assets/tips.gif) **TIP:** These images below do NOT have tool tip information.
 >
-> ![image001.png](../../.gitbook/assets/info.png) **NOTE:** These images below do NOT have tool tip information.
+> ![](../../.gitbook/assets/info.png) **NOTE:** These images below do NOT have tool tip information.
 >
-> ![image001.png](../../.gitbook/assets/important.png) **WARNING:** These images below do NOT have tool tip information.
+> ![](../../.gitbook/assets/important.png) **WARNING:** These images below do NOT have tool tip information.
 >
-> ![image001.png](../../.gitbook/assets/stop%20%281%29.png) **IMPORTANT:** These images below do NOT have tool tip information.
+> ![](../../.gitbook/assets/stop%20%281%29.png) **IMPORTANT:** These images below do NOT have tool tip information.
 
 4\) When creating a XOOPS Tutorial in GitBook, please call it: **"XOOPS XYZ Module"**, replacing the "XYZ" with the name of the module, e.g. "XOOPS Protector Module"
 
 5\) Directory structure
 
-![image001.png](../../.gitbook/assets/directorystructure%20%281%29.jpg)
+![](../../.gitbook/assets/directorystructure%20%281%29.jpg)
 
 Above you can see the typical directory structure for a Gitbook document. Within the /book folder, you can have additional folders if needed \(e.g. for individual chapters\)
 
 For Multi-lingual documents, the top structure will look like this:
 
-![image001.png](../../.gitbook/assets/directorystructure_international.png)
+![](../../.gitbook/assets/directorystructure_international.png)
 
 with the LANGS.md file containing list of languages which you can activate or deactivate:
 

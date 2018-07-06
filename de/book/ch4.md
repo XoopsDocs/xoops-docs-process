@@ -6,25 +6,25 @@
 
 3\) Bitte verwende nachstehende Standards für die Angabe von Infos/Tipps:
 
-> ![image001.png](../../.gitbook/assets/tips%20%281%29.gif) **TIPP:** Die Bilder besitzen keine Tooltip-Information.
+> ![](../../.gitbook/assets/tips%20%281%29.gif) **TIPP:** Die Bilder besitzen keine Tooltip-Information.
 >
-> ![image001.png](../../.gitbook/assets/info%20%281%29.png) **BEACHTE:** Die Bilder besitzen keine Tooltip-Information.
+> ![](../../.gitbook/assets/info%20%281%29.png) **BEACHTE:** Die Bilder besitzen keine Tooltip-Information.
 >
-> ![image001.png](../../.gitbook/assets/important%20%281%29.png) **ACHTUNG:** Die Bilder besitzen keine Tooltip-Information.
+> ![](../../.gitbook/assets/important%20%281%29.png) **ACHTUNG:** Die Bilder besitzen keine Tooltip-Information.
 >
-> ![image001.png](../../.gitbook/assets/stop.png) **WICHTIG:** Die Bilder besitzen keine Tooltip-Information.
+> ![](../../.gitbook/assets/stop.png) **WICHTIG:** Die Bilder besitzen keine Tooltip-Information.
 
 4\) Beim Erstellen eines XOOPS-Tutorials in GitBook benenne es wie folgt: **"XOOPS XYZ Module"**, ersetze "XYZ" durch den Namen des Moduls, z.B. "XOOPS Protector Module"
 
 5\) Verzeichnisstruktur
 
-![image001.png](../../.gitbook/assets/directorystructure.jpg)
+![](../../.gitbook/assets/directorystructure.jpg)
 
 Hier kanns Du die typische Verzeichnisstruktur für ein Gitbook-Dokument sehen. Innerhalb des /book-Ordners kannst Du zusätzliche Unterordner je anch Bedarf anlegen \(z.B. für die verschiedenen Kapitel\)
 
 Für mehrsprachige Dokumente sieht die Struktur wie folgt aus:
 
-![image001.png](../../.gitbook/assets/directorystructure_international%20%281%29.png)
+![](../../.gitbook/assets/directorystructure_international%20%281%29.png)
 
 Die Datei LANGS.md enthält eine Liste aller Sprachen die \(de-\)aktiviert werden können:
 
