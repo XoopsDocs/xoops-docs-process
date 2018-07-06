@@ -4,7 +4,7 @@
 
 ## Wie man eine XOOPS-Dokumentation unter Verwendung von GitHub und GitBook erstellt
 
-[**XOOPS**](http://xoops.org) war immer für einen sehr guten Code, gute Architektur und seinen modularen Ansatz bekannt, aber wir waren nie in der Lage, eine gute Dokumentation zu erstellen.
+[**XOOPS**](https://xoops.org) war immer für einen sehr guten Code, gute Architektur und seinen modularen Ansatz bekannt, aber wir waren nie in der Lage, eine gute Dokumentation zu erstellen.
 
 Mit den jüngsten technologischen Fortschritten, vor allem rund um GitHub, glauben wir, dass wir jetzt Werkzeuge gefunden haben, die uns helfen werden:
 
@@ -28,6 +28,6 @@ Wenn Du mehr über Gitbook lernen möchtest, dann schau auf deren [Hilfeseite](h
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Sofern nicht ausdrücklich anders spezifiziert, fällt der Inhalt dieses Dokumentes unter die Lizenzbestimmungen [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Alle Derivate sind Bestandteil des XOOPS Project \( [www.xoops.org](http://xoops.org) \)
+Alle Derivate sind Bestandteil des XOOPS Project \( [www.xoops.org](https://xoops.org) \)
 
-All derivative works are to be attributed to XOOPS Project ( [www.xoops.org](http://xoops.org) )
+All derivative works are to be attributed to XOOPS Project ( [www.xoops.org](https://xoops.org) )
