@@ -2,7 +2,7 @@
 
 ## 1\) Setup
 
-![image001.png](../../.gitbook/assets/gitbook4%20%281%29.png)
+![](../../.gitbook/assets/gitbook4%20%281%29.png)
 
 1. Create a GitHub repository for your book \(fork existing or create a new one\)
 2. Create the book on GitBook
@@ -10,7 +10,7 @@
 
 ## 2\) Writing and publishing a book
 
-![image001.png](../../.gitbook/assets/gitbook5%20%281%29.png)
+![](../../.gitbook/assets/gitbook5%20%281%29.png)
 
 1. Write a new book or edit an existing one using the GitBook Editor 
 2. Every time you save your work in the Editor, it will be saved in the GitHub repository.
@@ -18,7 +18,7 @@
   
 
 
-   > ![image001.png](https://github.com/XoopsDocs/xoops-docs-process/tree/2184668a440f6665572a6217960e9650b439de70/fr/assets/info/info.png) **NOTE:** Webhooks allow external services to be notified when certain events happen on GitHub. When the specified events happen, GitHub will send a POST request to each of the URLs you provide. Learn more in the [Webhooks Guide](https://developer.github.com/webhooks/).
+   > ![](https://github.com/XoopsDocs/xoops-docs-process/tree/2184668a440f6665572a6217960e9650b439de70/fr/assets/info/info.png) **NOTE:** Webhooks allow external services to be notified when certain events happen on GitHub. When the specified events happen, GitHub will send a POST request to each of the URLs you provide. Learn more in the [Webhooks Guide](https://developer.github.com/webhooks/).
 
 4. By keeping the book automatically updated, the readers will have always access to the latest and greatest version of your book
 
@@ -35,25 +35,25 @@
 
 5. Now go to GitBook and click on the "+" sign there on top: 
 
-![image001.png](../../.gitbook/assets/gitbook6_newbook%20%281%29.png)
+![](../../.gitbook/assets/gitbook6_newbook%20%281%29.png)
 
 which will open this screen: [https://www.gitbook.com/new](https://www.gitbook.com/new) below:
 
-![image001.png](../../.gitbook/assets/gitbook6_newbook2%20%281%29.png)
+![](../../.gitbook/assets/gitbook6_newbook2%20%281%29.png)
 
 1. Select the kind of book you want to write. In XOOPS case, the Basic book is what we're using
 2. Set the name of the book. For XOOPS Tutorials, we're using "**XOOPS XYZ Module**", where **XYZ** is the name of the module, e.g. "**XOOPS Protector Module**"
 3. Click on the "Save" Button
 
-![image001.png](../../.gitbook/assets/gitbook7_settings%20%281%29.jpg)
+![](../../.gitbook/assets/gitbook7_settings%20%281%29.jpg)
 
 1\) After the book has been created, we need to connect it to the GitHub repository via the Settings. Please note that from this screen you can also click on the top buttons to Edit or View the book
 
-![image001.png](../../.gitbook/assets/gitbook7_settingsgithub%20%281%29.png)
+![](../../.gitbook/assets/gitbook7_settingsgithub%20%281%29.png)
 
 After you click on the Settings, click on the "GitHub Integration" button
 
-![image001.png](../../.gitbook/assets/gitbook7_settingsgithub2.png)
+![](../../.gitbook/assets/gitbook7_settingsgithub2.png)
 
 1. To connect the book to the GitHub Repository, you enter the name of the Account and the repository on GitHub \(e.g. **XoopsDocs/xyz-tutorial**\)
 2. If you want GitBook to update the book every time the repository is changed, you need to add the "webhook" by clicking on the link here

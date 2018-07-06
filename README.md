@@ -1,6 +1,6 @@
 # XOOPS Docs Process
 
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![](en/assets/logoXoops.jpg)
 
 ## How to write XOOPS Documentation using GitHub and GitBook
 
